@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Delowar Hossain Milton</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
-<img src="https://giphy.com/explore/frontend.gif" align="right" width="400">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTUxN3Jjc2VqbGVyN2VrNm1wZDhhbHlhMHVicDJicGNxMWh0MjJtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" alt="animate-img">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delowar-prog&label=Profile%20views&color=0e75b6&style=flat" alt="delowar-prog" /> </p>
 
